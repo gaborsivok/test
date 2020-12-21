@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sigma-tractor-299310",
+  "private_key_id": "7ed6d2fbe1a8f57c97488437cbf25840daab8042",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3G+Dz6NSj8ADT\nDFsVllwBII6ONkf2DIa9ByDL7pBgxaeEjM5KAwLX+1BfHGk7zBLTCXT4Qr/zgwZX\nWbR4LMf0d+Wih8gxAmMqv3IJZZo2KoI2RK0jsJe1bJAb/yWNL8/OiEWkiMKvCeN3\n6wsKJl/qJlQe+jfqxImgIRfkKJJe0dstOQ9GJSbUPeW67AMr8DYDksPCVnecdpow\naENw2YW4Lfe1XtH2cqazK8RydprCaDSSzkMQkB7l/ze8Gdew4rlPrVS1/idr23VL\nqmeWBaXvQkN2rTasICWm7GxLVMgZr2QsEzZnAAamWywirx173Zj+DwgVaf7IHNwf\nscBY8/KJAgMBAAECggEACe9ebeGByxjSNKFInmPbf1iov3TYw/QDSgWVXRdHOGb1\nC0M4DKo76OPbBSQVnh/ZHB/426EEiPYAnbPxb61PVpd8S0ymeylD3+2GBpY/jyWQ\njdj9U3DJFHgM3CYEf7P6yJwaej5M4OIumEK1pUH2hY35lboyFz/9byWohhHA+lm9\nVdYu8qANDlfDZ1sD96xV848JL+rmBoSm6YcO8eLDGINgGguPitqwwxnSyy+nJNeb\nsmYoHW2WqJmj9e32JEcmgppVMGOUbxaScvelVYfVVfSd4MP7POmCfyksAznrwxKj\nBXO0t0S6myL4qqtAVLk00amuOrNjWSzVM3tQed7JwQKBgQDZMq3TEzJoc/f7Rs2R\nylT0e/IItJhOu0wSr2YjvZyw5kBYOLjIpVBgalQdeDMkMWJrvs3CMKfrdPXs0O4w\nEtkB7K8sDEejcC/JuxjJYTM+yCEDaSG0L0VoiOpXNsqUAWbH1C6XV4u26nQ1tbUO\nbF6OzEJTZ9J1mhKvlTForJ5ESQKBgQDX0iwTQen5cgYFlisuNOvxWHkW67g+CJ1k\nGOF6DAt0P3Wel7vDXQOY0CqD8WvRmkhZQ78Yph4ZkHU7y4IKt5oEAW0GnvwMDDqJ\n5Vo0zdme9Dvfb+Olxa9g0XeEr8DySMK0eQebauPdj9rGG6FIJOuvGuoq+yN18/kR\nAgJtx6e8QQKBgFzDLkYVztOZo/GnnaiEd6ArR4W8S8hkaesZClB9bOyIijajkxfu\nstNa1i335i+w/83wocQsL6t6OoY3/WJ+yjvuMCpp3DbLdT19MOrhHpfTtXXVctWX\n0tcAksVI22A28QSrdHKiq0MmAxflUTylwATQ7ArfLp2Xfh+LYpzIDJgxAoGAI5NW\nhpof6ml8SqF1XrmEhxURaNDUXw1mfGCJkme336KyTcEvR0Xm2OK/j15VaoinEmfT\ncUm4vngMix3Bwuh+79gYU7YTUB0X7TEsTHX+QHB8ChnUibfrb+c3b1zVTlrmFX+5\n3EmjZBtZcbyOOmkznHqwTQN21fOwg7g0FEqMAMECgYBfttrmKip0Y2nzQsLUr+dj\nKSAG3NC58S3KSJaqR3Im80piMuv1I5OhbIT5B1OaQKqu/PA2sFWyh2krK5OCtQZx\nQFgdRi4fKJ3XSi0nLlfhrHv5bl8c+UvGhq6e+o+p3NY7LQZxrfa0DK4cPG2DBNyE\nG+KqvDBQKIlpNrTKos4x8A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-test@sigma-tractor-299310.iam.gserviceaccount.com",
+  "client_id": "117955040996848940376",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-test%40sigma-tractor-299310.iam.gserviceaccount.com"
+}
